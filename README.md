@@ -9,5 +9,5 @@ We have three main Cloud Providers
 2. AZURE -- Microsoft Azure
 3. GCP -- Goolge Cloud Platform
 
-In these 3 Cloud provider AWS is the leader in the market followed by Azure and GCP.
+In these 3 Cloud providers AWS is the leader in the market followed by Azure and GCP.
 
